@@ -1,7 +1,7 @@
 
 const InputBox=()=>{
     return(
-        <input className="h-10 w-1/3 bg-white rounded-lg" />
+        <input className="h-9 w-3/4 bg-white rounded-lg" />
     )
 }
 export default InputBox;
